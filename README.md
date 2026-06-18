@@ -42,8 +42,7 @@
 ### 2️⃣ Скачать проект
 
 ```bash
-git clone https://github.com/BRONNSON705/space-game
-cd space-game
+Скачать ZIP-архив и извлечь данные на рабочий стол.
 ```
 
 ### 3️⃣ Установить зависимости
@@ -55,7 +54,11 @@ npm install
 ### 4️⃣ Запустить сервер
 
 ```bash
-node server.js
+Открыть cmd через Win+R.
+
+Ввести данную команду: cd C:\Users\User\Desktop\space-game
+
+После данную команду: node server.js
 ```
 
 ### 5️⃣ Открыть игру
