@@ -42,7 +42,7 @@
 ### 2️⃣ Скачать проект
 
 ```bash
-git clone https://github.com/ТВОЙ_НИК/space-game.git
+git clone https://github.com/BRONNSON705/space-game
 cd space-game
 ```
 
